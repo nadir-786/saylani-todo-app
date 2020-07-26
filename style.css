@@ -21,6 +21,7 @@ h1 span{
     font-size: 18px;
     border: none;
     background-color: white;
+    outline: none;
 }
 .input-holder input{
     height: 50px;
@@ -53,5 +54,6 @@ h1 span{
     margin-top: -15px;
     margin-left: 5px;
     background-color: white;
+    outline: none;
 
 }
